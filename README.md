@@ -1,4 +1,4 @@
-# tips
+# movieapp-ui
 
 A new Flutter project.
 
